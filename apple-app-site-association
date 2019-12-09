@@ -5,6 +5,10 @@
       {
         "appID": "HAWC576884.jp.co.qnote.test.universal-link",
         "paths": [ "*" ]
+      },
+      {
+        "appID": "9DBFT49G86.jp.h-test.ulink",
+        "paths": [ "*" ]
       }
     ]
   }
